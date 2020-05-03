@@ -1,2 +1,2 @@
-# Class-19
-I used visual studio code to write an algorithm to detect if two sprites were touching each other.
+# p5.play-boilerplate
+Boiler plate for p5.play
